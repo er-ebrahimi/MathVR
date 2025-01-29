@@ -50,15 +50,15 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Foam_Distance: 0.492
+    - _Foam_Distance: 0.74
     - _Metallic: 0
-    - _Noise_Scale: 0.301
+    - _Noise_Scale: 0.697
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Refraction: 0.0152
+    - _Refraction: 0.0282
     - _Smoothness: 1
-    - _Transparency: 0.291
-    - _Wave_Speed: 0.01
+    - _Transparency: 0.409
+    - _Wave_Speed: 0.00373
     m_Colors:
     - _Foam_Color: {r: 1, g: 1, b: 1, a: 0.5686275}
     - _Water_Color: {r: 0.16629584, g: 0.9528302, b: 0.9528302, a: 0.6509804}
